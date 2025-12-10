@@ -17,11 +17,8 @@
 
 # Step 1 — Load Medication + Summary Sheets Cleanly
 
-import pandas as pd
-from google.colab import files
 
-# Upload the Krista file (do this ONCE)
-uploaded = files.upload()   # Select "Krista 240726 Final.xlsx"
+
 
 # Load the workbook
 file_name = "/content/clinical-safety-analytics-pipeline/GMR Med Error Jan 21 to July 24.xlsx"
