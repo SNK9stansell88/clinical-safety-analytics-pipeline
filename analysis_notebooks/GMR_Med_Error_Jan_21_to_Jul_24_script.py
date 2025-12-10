@@ -24,7 +24,7 @@ from google.colab import files
 uploaded = files.upload()   # Select "Krista 240726 Final.xlsx"
 
 # Load the workbook
-file_name = "Krista 240726 Final.xlsx"
+file_name = "/content/clinical-safety-analytics-pipeline/GMR Med Error Jan 21 to July 24.xlsx"
 
 # Read both sheets
 med = pd.read_excel(file_name, sheet_name="Medication")
