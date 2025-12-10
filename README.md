@@ -1,12 +1,3 @@
-# Clinical Safety Analytics Pipeline  
-Medication Error Risk Modeling & Forecasting (2021–2024)
+## Project Overview
 
-This project demonstrates a complete clinical safety analytics workflow using medication error data.  
-It includes:
-- Data cleaning and preparation  
-- Basic statistical tests  
-- Machine learning (Decision Tree)  
-- Forecasting (Holt’s Linear Trend)  
-- Clinical interpretation of findings  
-
-This work aligns with responsibilities of a Clinical Safety Data Analyst, including trend analysis, predictive insight development, and data-driven recommendations to improve patient safety.
+This project demonstrates a clinical safety analytics pipeline built using real medication error data from 2021–2024. It includes data preparation, exploratory analysis, risk pattern identification, statistical testing, and forecasting to support clinical decision-making and safety improvement initiatives. This work reflects analytical tasks aligned with a Clinical Safety Data Analyst role, including reviewing trends, interpreting risk drivers, and translating findings into operational insight.
