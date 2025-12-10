@@ -141,6 +141,8 @@ pip install -r requirements.txt
 
 python analysis_notebooks/GMR_Med_Error_Jan_21_to_Jul_24_script.py
 
+---
+
 ## 7. Future Directions
 
 This project establishes a foundation for advanced analytics and AI integration, including:
@@ -174,6 +176,8 @@ For collaboration, expansion of this project, or discussion of clinical safety a
 **Chris Stansell**  
 432-559-0904
 chris.stansell@gmr.net
+
+---
 
 
 
