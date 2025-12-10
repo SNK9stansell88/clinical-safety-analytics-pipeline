@@ -140,6 +140,7 @@ cd clinical-safety-analytics-pipeline
 pip install -r requirements.txt
 
 python analysis_notebooks/GMR_Med_Error_Jan_21_to_Jul_24_script.py
+```
 
 ---
 
@@ -174,7 +175,7 @@ This repository serves as the technical backbone for a future **multi-layer clin
 For collaboration, expansion of this project, or discussion of clinical safety analytics:
 
 **Chris Stansell**  
-432-559-0904
+432-559-0904  
 chris.stansell@gmr.net
 
 ---
